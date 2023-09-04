@@ -271,9 +271,10 @@ section .title::after{
 .services .title::after,
 .teams .title::after{
     background: #111;
-    content: "What are my Strengths";
+    content: "I completed and achieved";
 }
 .services .serv-content .card{
+    margin: 10px;    
     width: calc(33% - 20px);
     background: #222;
     text-align: center;
@@ -365,7 +366,7 @@ section .title::after{
     background: crimson;
 }
 .skills-content .right .cpp::before{
-    width: 55%;
+    width: 72%;
 }
 .skills-content .right .java::before{
     width: 64%;
@@ -374,18 +375,18 @@ section .title::after{
     width: 80%;
 }
 .skills-content .right .webD::before{
-    width: 65%;
+    width: 85%;
 }
 .skills-content .right .photoshop::before{
     width: 75%;
 }
 .skills-content .right .illustrator::before{
-    width: 70%;
+    width: 62%;
 }
 
 /* teams section styling */
-/* .teams .title::after{
-    content: "who with me";
+.teams .title::after{
+    content: "What projects I worked on";
 }
 .teams .carousel .card{
     background: #222;
@@ -444,7 +445,7 @@ section .title::after{
 .owl-dot.active,
 .owl-dot:hover{
     background: crimson!important;
-} */
+}
 
 /* contact section styling */
 .contact .title::after{
