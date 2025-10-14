@@ -52,12 +52,33 @@ It serves as an **interactive online resume** and a **professional digital ident
    ```bash
    git clone https://github.com/sbharsh/MyPortfolioWebsite.github.io.git
 2. Open the folder in VS Code or any code editor.
-
 3. Run the file index.html in your web browser.
-
 4. Ensure you have an internet connection (for external CSS and JS libraries like Font Awesome, jQuery, etc.).
+
+---
 
 ## 🌐 Live Demo
 
 🎯 Click below to visit the hosted website: 
-👉 Visit Portfolio : https://sbharsh.github.io/MyPortfolioWebsite.github.io/
+👉 https://sbharsh.github.io/MyPortfolioWebsite.github.io/
+
+---
+
+## 📁 Project Structure
+
+MyPortfolioWebsite.github.io/
+│
+├── index.html                 → Main webpage
+├── style.css                  → Stylesheet for design
+├── script.js                  → JavaScript for animations and behavior
+├── images/                    → Folder containing profile and project images
+├── Harsh_Resume_Dev.docx.pdf  → Downloadable resume
+└── README.md                  → Project documentation
+
+---
+
+## 👨‍💻 Author
+
+Harsh Kumar
+📧 Email: harshkumar2037@gmail.com
+🌍 Location: Gurgaon, India
