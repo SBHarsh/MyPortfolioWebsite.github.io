@@ -66,15 +66,14 @@ It serves as an **interactive online resume** and a **professional digital ident
 
 ## 📁 Project Structure
 
-MyPortfolioWebsite.github.io/
-│
-├── index.html                 → Main webpage
-├── style.css                  → Stylesheet for design
-├── script.js                  → JavaScript for animations and behavior
-├── images/                    → Folder containing profile and project images
-├── Harsh_Resume_Dev.docx.pdf  → Downloadable resume
-└── README.md                  → Project documentation
-
+    MyPortfolioWebsite.github.io/
+    │
+    ├── index.html                 → Main webpage
+    ├── style.css                  → Stylesheet for design
+    ├── script.js                  → JavaScript for animations and behavior
+    ├── images/                    → Folder containing profile and project images
+    ├── Harsh_Resume_Dev.docx.pdf  → Downloadable resume
+    └── README.md                  → Project documentation
 
 ---
 
